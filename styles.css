@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Coral+Pixels&family=Electrolize&family=Nabla&display=swap');
+
+
+
+
+body {
+    background-color: rgba(0, 0, 0, 0.693);
+    font-family:ElectroLize ;    
+}
+
+a {
+    margin: 0;
+    box-sizing: border-box;
+    font-family:ElectroLize;
+}
+
+h2 {
+    font-family:Audiowide;
+}
+
+
+.right-image {
+    float: right;
+    width: 500px; 
+    margin-left: 90px;
+}
+
+p {
+    margin: 0;
+}
