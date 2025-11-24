@@ -4,7 +4,7 @@
 
 
 body {
-    background-color: rgba(0, 0, 0, 0.693);
+    background-color: rgba(3, 2, 2, 0.693);
     font-family:ElectroLize ;    
 }
 
@@ -37,10 +37,6 @@ h2 {
     float: right;
     width: 500px; 
     margin-left: 90px;
-}
-
-p {
-    margin: 0;
 }
 
 h3 {
