@@ -130,3 +130,36 @@ h1 {
 .Clash3 {
   color: aliceblue;
 }
+
+.king {
+  position: relative;
+  left: 38%;
+}
+
+.Medieval {
+  
+}
+
+.link {
+position:absolute
+}
+
+.cool {
+font-family: monospace;
+    color: #00ff00;
+    text-shadow: 0 0 10px #00ff00;
+    text-transform: uppercase;
+    border: 2px solid #00ffff;
+    padding: 10px;
+    background-color: #001122;
+    animation: cyber-glow 2s infinite;
+    color: #00ff41;
+    background-color: black;
+    font-family: monospace;
+    letter-spacing: 2px;
+}
+
+@keyframes cyber-glow {
+    0% { text-shadow: 0 0 5px #00ff00; }
+    50% { text-shadow: 0 0 20px #00ff00; }
+    100% { text-shadow: 0 0 5px #00ff00; }
